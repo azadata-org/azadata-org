@@ -1,23 +1,6 @@
 [
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
-    "number": "FC032594",
-    "status": "Active",
-    "category": "Other company type",
-    "country_of_origin": "MOZAMBIQUE",
-    "sic_code_sic_text_1": "None Supplied",
-    "name": "AFRICA AGRICULTURAL DEVELOPMENT COMPANY MO\u00c7AMBIQUE, LIMITADA",
-    "sic_code_sic_text_2": "",
-    "sic_code_sic_text_3": "",
-    "sic_code_sic_text_4": "",
-    "uid": "4e4439da-0638-4038-aab9-65e2b38804a9",
-    "created_at": "2025-11-04 14:15:49.846752",
-    "registered_address_country": "MOZAMBIQUE",
-    "alpha_2_country_code_registered_address_country": "MZ",
-    "alpha_2_country_code_country_of_origin": "MZ"
-  },
-  {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "FC027114",
     "status": "Active",
     "category": "Other company type",
@@ -27,10 +10,29 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "d552ac92-a70e-4d2d-83ae-131e92bcd312",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "051398e3-39f6-49e6-aa5c-8d396bab9edf",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "70 GREAT BRIDGEWATER STREET, MANCHESTER, M1 5ES",
     "registered_address_country": "",
     "alpha_2_country_code_registered_address_country": null,
+    "alpha_2_country_code_country_of_origin": "MZ"
+  },
+  {
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
+    "number": "FC032594",
+    "status": "Active",
+    "category": "Other company type",
+    "country_of_origin": "MOZAMBIQUE",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "AFRICA AGRICULTURAL DEVELOPMENT COMPANY MO\u00c7AMBIQUE, LIMITADA",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "b16c566b-f6e8-4cda-8177-6ee228408c5a",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "1ST FLOOR LEFT, FLAT 1 446, AVENIDA JULIUS NYERERE, MAPUTO, MOZAMBIQUE",
+    "registered_address_country": "MOZAMBIQUE",
+    "alpha_2_country_code_registered_address_country": "MZ",
     "alpha_2_country_code_country_of_origin": "MZ"
   }
 ]

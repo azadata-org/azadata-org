@@ -1,6 +1,6 @@
 [
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "FC037859",
     "status": "Active",
     "category": "Other company type",
@@ -10,14 +10,15 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "c41ee2e4-eeeb-4068-8e03-3800057a7606",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "81ff306b-21de-453c-9446-badd5e87c5f6",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "COMEL BUILDING 2ND FLOOR GODENA GUNA AVENUE, KEBELE 13, KEDAMAY WEYANE ADDIS ALEM, MEKELLE, TIGRAY 7000, ETHIOPIA",
     "registered_address_country": "ETHIOPIA",
     "alpha_2_country_code_registered_address_country": "ET",
     "alpha_2_country_code_country_of_origin": "ET"
   },
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "FC007577",
     "status": "Active",
     "category": "Other company type",
@@ -27,14 +28,15 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "6b6c9bda-aed6-48d5-9a29-b810291eee5d",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "e61b217f-888c-437e-a274-c023329f4f0c",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "BOLE INTERNATIONAL AIRPORT, P.O. BOX 1755, ADDIS ABABA, ETHIOPIA",
     "registered_address_country": "ETHIOPIA",
     "alpha_2_country_code_registered_address_country": "ET",
     "alpha_2_country_code_country_of_origin": "ET"
   },
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "FC038936",
     "status": "Active",
     "category": "Other company type",
@@ -44,8 +46,9 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "82ebfc63-07e8-43ce-9932-2d9ef8db217d",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "5414baf3-87da-4d2d-a414-28d2f359a090",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "ALEM BUILDING, 5TH FLOOR, BOLE ROAD, ADDIS ABABA, 26905, ETHIOPIA",
     "registered_address_country": "ETHIOPIA",
     "alpha_2_country_code_registered_address_country": "ET",
     "alpha_2_country_code_country_of_origin": "ET"

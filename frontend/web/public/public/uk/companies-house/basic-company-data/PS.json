@@ -1,6 +1,6 @@
 [
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "FC042201",
     "status": "Active",
     "category": "Other company type",
@@ -10,14 +10,15 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "56a8fafd-7d6b-4489-a2e1-a1a2a576c5c7",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "0e8b7590-eee1-44ac-8f71-eb59d1e8f1a8",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "ETCO BUILDING YAFFA STREET, BITUNIA 999 1000, RAMALLAH, P6320099, PALESTINE, STATE OF",
     "registered_address_country": "PALESTINE, STATE OF",
     "alpha_2_country_code_registered_address_country": "PS",
     "alpha_2_country_code_country_of_origin": "PS"
   },
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "OE030411",
     "status": "Active",
     "category": "Overseas Entity",
@@ -27,14 +28,15 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "b4593e13-2ac8-49be-9764-1516929342f3",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "b3e06875-dcca-4f8d-908e-f2767337ca4b",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "PALESTINE LIBERATION ORGANISATION, AL-ERSAL ROAD, RAMALLAH, WEST BANK, PALESTINE, STATE OF",
     "registered_address_country": "PALESTINE, STATE OF",
     "alpha_2_country_code_registered_address_country": "PS",
     "alpha_2_country_code_country_of_origin": "PS"
   },
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "FC042406",
     "status": "Active",
     "category": "Other company type",
@@ -44,8 +46,9 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "9af029b1-ee42-4bbf-b25c-f126163f47f9",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "ebb67ea8-bc3e-450a-9e18-c27d78241696",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "UNIVERSITY OF PALESTINE, ALZAHRA CITY,, GAZA CITY, 009708 GAZA, PALESTINE, 009708, PALESTINE, STATE OF",
     "registered_address_country": "PALESTINE, STATE OF",
     "alpha_2_country_code_registered_address_country": "PS",
     "alpha_2_country_code_country_of_origin": "PS"

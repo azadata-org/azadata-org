@@ -1,6 +1,6 @@
 [
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "FC039713",
     "status": "Active",
     "category": "Other company type",
@@ -10,8 +10,9 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "a2a5b63b-6cc5-4464-8b8f-95737e271e98",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "ccf6bc9d-02ba-48ee-a05f-bb1251767a81",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "GROSVENOR HOUSE, SENTINEL PARK, 15, UNITED NATIONS ROAD, MASERU,, 100, LESOTHO",
     "registered_address_country": "LESOTHO",
     "alpha_2_country_code_registered_address_country": "LS",
     "alpha_2_country_code_country_of_origin": "LS"

@@ -1,6 +1,6 @@
 [
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "FC015124",
     "status": "Active",
     "category": "Other company type",
@@ -10,8 +10,9 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "a22b11d9-1755-4ed7-91e9-646cac032d8c",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "a0f82cf9-5f14-495c-a06c-0bda624f7a8c",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "SANTIGIE SESAY, 149 ASHFIELD STREET, LONDON, E1, SIERRA LEONE",
     "registered_address_country": "SIERRA LEONE",
     "alpha_2_country_code_registered_address_country": "SL",
     "alpha_2_country_code_country_of_origin": "SL"

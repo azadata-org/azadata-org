@@ -1,6 +1,6 @@
 [
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "FC013922",
     "status": "Active",
     "category": "Other company type",
@@ -10,14 +10,15 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "bff9e920-f5af-4356-bd35-83289acf7ad7",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "ce7b50e6-e0dc-412f-a606-692165395c5c",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "MRS KUSHMAWATTIE RAMLAKHAN, 60 FRIARSWOOD, PIXTONWAY, FORESTDALE, CROYDON,CR0 9JP, GUYANA",
     "registered_address_country": "GUYANA",
     "alpha_2_country_code_registered_address_country": "GY",
     "alpha_2_country_code_country_of_origin": "GY"
   },
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "FC016853",
     "status": "Active",
     "category": "Other company type",
@@ -27,8 +28,9 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "e275ff6d-63d1-44f6-b468-f6def506cc30",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "ab3f70f8-9895-424d-8123-2b37022cf7ae",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "BEN ASANTE             + 2, 38 PARADISE COURT, WEMBLEY PARK, MIDDLESEX, HA9 9YG",
     "registered_address_country": "",
     "alpha_2_country_code_registered_address_country": null,
     "alpha_2_country_code_country_of_origin": "GY"

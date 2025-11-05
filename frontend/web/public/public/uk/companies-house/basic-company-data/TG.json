@@ -1,6 +1,6 @@
 [
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "OE030974",
     "status": "Active",
     "category": "Overseas Entity",
@@ -10,8 +10,9 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "5b6e9996-c7f5-46b8-be4c-56d8254e467c",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "0a7424bf-fa07-4c07-98c7-b8f876fe1f09",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "HIGH COMMISSION OF TOGO IN LONDON, UNITS 3, 7 & 8 LYSANDER MEWS, LYSANDER GROVE, LONDON, UNITED KINGDOM, N19 3QP",
     "registered_address_country": "UNITED KINGDOM",
     "alpha_2_country_code_registered_address_country": "GB",
     "alpha_2_country_code_country_of_origin": "TG"

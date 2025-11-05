@@ -23,7 +23,25 @@ export default function CountryCompanies(props: CountryCompaniesProps) {
       return (
         <>
           {data.map(company => {
-            return <p>{company.name}</p>
+            return (
+              <div>
+                <div>{company.name}</div>
+                <div>
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href={
+                      "https://find-and-update.company-information.service.gov.uk/company/" +
+                      company.number
+                    }
+                  >
+                    <small>{company.number}</small>
+                  </a>
+                  &nbsp; | &nbsp; <small>{company.registered_address}</small>
+                </div>
+                <hr />
+              </div>
+            )
           })}
         </>
       )

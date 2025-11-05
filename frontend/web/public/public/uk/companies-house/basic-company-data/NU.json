@@ -1,6 +1,6 @@
 [
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "OE012886",
     "status": "Active",
     "category": "Overseas Entity",
@@ -10,14 +10,15 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "3c9c1e00-9dd7-4968-ace4-160591c71b2a",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "16046148-7625-4667-87ea-73a20d3d825e",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "SECOND FLOOR CHARLES BISSON HOUSE, 30-32 NEW STREET, ST HELIER, JERSEY, JE2 3RA",
     "registered_address_country": "JERSEY",
     "alpha_2_country_code_registered_address_country": "JE",
     "alpha_2_country_code_country_of_origin": "NU"
   },
   {
-    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "payload_uid": "2b569fc1-a082-4583-b7c0-7e3fe9c872d6",
     "number": "OE010954",
     "status": "Active",
     "category": "Overseas Entity",
@@ -27,8 +28,9 @@
     "sic_code_sic_text_2": "",
     "sic_code_sic_text_3": "",
     "sic_code_sic_text_4": "",
-    "uid": "18befbab-34d8-4be2-bd51-64cdf83248b0",
-    "created_at": "2025-11-04 14:15:49.846752",
+    "uid": "743228f8-43e1-46d2-813b-6960793520a2",
+    "created_at": "2025-11-05 14:06:44.198245",
+    "registered_address": "TORTOLA PIER PARK BUILDING 1 SECOND FLOOR, WICKHAMS CAY 1, ROAD TOWN, TORTOLA, VIRGIN ISLANDS, BRITISH",
     "registered_address_country": "VIRGIN ISLANDS, BRITISH",
     "alpha_2_country_code_registered_address_country": "VG",
     "alpha_2_country_code_country_of_origin": "NU"

@@ -7,6 +7,7 @@ type Company = {
   name: string
   status: string
   category: string
+  registered_address: string
   country_of_origin: string
 }
 
