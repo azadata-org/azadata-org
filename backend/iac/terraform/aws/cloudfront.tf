@@ -5,8 +5,11 @@ module "cloudfront_frontend" {
   bucket_id                   = module.azadata_org_s3_public_frontend.s3_bucket.id
   bucket_arn                  = module.azadata_org_s3_public_frontend.s3_bucket.arn
   bucket_regional_domain_name = module.azadata_org_s3_public_frontend.s3_bucket.bucket_regional_domain_name
-  aliases                     = [aws_route53_zone.azadata_org.name]
   acm_certificate_arn         = module.azadata_org_useast1.acm_certificate.arn
   origin_path                 = "/${var.commit}"
   minimum_protocol_version    = "TLSv1.3_2025"
+  aliases                     = [
+    aws_route53_zone.azadata_org.name,
+    "www.${aws_route53_zone.azadata_org.name}",
+  ]
 }

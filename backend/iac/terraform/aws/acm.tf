@@ -7,6 +7,10 @@ module "azadata_org_useast1" {
     aws = aws.useast1
   }
 
+  subject_alternative_names = [
+    "www.${aws_route53_zone.azadata_org.name}"
+   ]
+
   zone_id     = aws_route53_zone.azadata_org.id
   domain_name = aws_route53_zone.azadata_org.name
 }
