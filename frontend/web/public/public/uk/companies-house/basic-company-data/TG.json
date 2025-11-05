@@ -1,0 +1,19 @@
+[
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "OE030974",
+    "status": "Active",
+    "category": "Overseas Entity",
+    "country_of_origin": "TOGO",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "THE REPUBLIC OF TOGO GOVERNMENT",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "5b6e9996-c7f5-46b8-be4c-56d8254e467c",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "UNITED KINGDOM",
+    "alpha_2_country_code_registered_address_country": "GB",
+    "alpha_2_country_code_country_of_origin": "TG"
+  }
+]

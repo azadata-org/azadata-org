@@ -1,0 +1,53 @@
+[
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "FC009790",
+    "status": "Active",
+    "category": "Other company type",
+    "country_of_origin": "VENEZUELA",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "C.V.G. INTERNATIONAL, C.A.",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "2f22abb5-e743-47b7-a15b-2626253fd23c",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "",
+    "alpha_2_country_code_registered_address_country": null,
+    "alpha_2_country_code_country_of_origin": "VE"
+  },
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "FC010744",
+    "status": "Active",
+    "category": "Other company type",
+    "country_of_origin": "VENEZUELA",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "VENEZOLANA INTERNACIONEL DE AVIACION S.A. (VIASA)",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "694ce8a7-64ea-49ef-9029-71e0cdbae242",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "VENEZUELA",
+    "alpha_2_country_code_registered_address_country": "VE",
+    "alpha_2_country_code_country_of_origin": "VE"
+  },
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "FC031912",
+    "status": "Active",
+    "category": "Other company type",
+    "country_of_origin": "VENEZUELA",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "GAZPROM UK RESOURCES, S.A.",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "ba59c777-6162-48b2-ab99-41d1fd760723",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "VENEZUELA",
+    "alpha_2_country_code_registered_address_country": "VE",
+    "alpha_2_country_code_country_of_origin": "VE"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "FC042201",
+    "status": "Active",
+    "category": "Other company type",
+    "country_of_origin": "PALESTINE, STATE OF",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "ETCO ENGINEERING FOR TRADING & CONTRACTING UK LTD",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "56a8fafd-7d6b-4489-a2e1-a1a2a576c5c7",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "PALESTINE, STATE OF",
+    "alpha_2_country_code_registered_address_country": "PS",
+    "alpha_2_country_code_country_of_origin": "PS"
+  },
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "OE030411",
+    "status": "Active",
+    "category": "Overseas Entity",
+    "country_of_origin": "PALESTINE, STATE OF",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "PALESTINE LIBERATION ORGANISATION",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "b4593e13-2ac8-49be-9764-1516929342f3",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "PALESTINE, STATE OF",
+    "alpha_2_country_code_registered_address_country": "PS",
+    "alpha_2_country_code_country_of_origin": "PS"
+  },
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "FC042406",
+    "status": "Active",
+    "category": "Other company type",
+    "country_of_origin": "PALESTINE, STATE OF",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "UNIVERSITY OF PALESTINE",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "9af029b1-ee42-4bbf-b25c-f126163f47f9",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "PALESTINE, STATE OF",
+    "alpha_2_country_code_registered_address_country": "PS",
+    "alpha_2_country_code_country_of_origin": "PS"
+  }
+]

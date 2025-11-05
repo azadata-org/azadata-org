@@ -1,0 +1,53 @@
+[
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "OE032011",
+    "status": "Active",
+    "category": "Overseas Entity",
+    "country_of_origin": "MACAO",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "PAVEL ASIA PROPERTY LIMITED",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "1152164a-b749-49a9-ae00-f15d348dca37",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "MACAO",
+    "alpha_2_country_code_registered_address_country": "MO",
+    "alpha_2_country_code_country_of_origin": "MO"
+  },
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "OE032012",
+    "status": "Active",
+    "category": "Overseas Entity",
+    "country_of_origin": "MACAO",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "PAVEL FAR EAST PROPERTY LIMITED",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "dc2d55ae-81f9-4258-86be-a23b31d70a28",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "MACAO",
+    "alpha_2_country_code_registered_address_country": "MO",
+    "alpha_2_country_code_country_of_origin": "MO"
+  },
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "OE032013",
+    "status": "Active",
+    "category": "Overseas Entity",
+    "country_of_origin": "MACAO",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "VLADI METALURGIC LIMITED",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "a9e8d955-5019-4fcb-9d04-d7b22a49034c",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "MACAO",
+    "alpha_2_country_code_registered_address_country": "MO",
+    "alpha_2_country_code_country_of_origin": "MO"
+  }
+]

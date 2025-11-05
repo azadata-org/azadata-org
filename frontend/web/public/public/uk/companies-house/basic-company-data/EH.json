@@ -1,0 +1,36 @@
+[
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "OE013724",
+    "status": "Active",
+    "category": "Overseas Entity",
+    "country_of_origin": "VIRGIN ISLANDS, BRITISH",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "SPIRAL HOLDINGS LIMITED",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "300c5ba7-1c42-47db-92f5-784d7f59aa39",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "WESTERN SAHARA",
+    "alpha_2_country_code_registered_address_country": "EH",
+    "alpha_2_country_code_country_of_origin": "VG"
+  },
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "FC037773",
+    "status": "Active",
+    "category": "Other company type",
+    "country_of_origin": "VIRGIN ISLANDS, BRITISH",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "MERCURY MANAGEMENT INTERNATIONAL G.P. LIMITED",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "92ee6491-c470-436b-b38c-2f112f4a4ba5",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "WESTERN SAHARA",
+    "alpha_2_country_code_registered_address_country": "EH",
+    "alpha_2_country_code_country_of_origin": "VG"
+  }
+]

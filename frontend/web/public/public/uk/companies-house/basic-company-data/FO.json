@@ -1,0 +1,53 @@
+[
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "FC032825",
+    "status": "Active",
+    "category": "Other company type",
+    "country_of_origin": "FAROE IS",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "GUDRUN & GUDRUN",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "8af339ce-bf56-4d28-adcf-44f08188e23d",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "FAROE ISLANDS",
+    "alpha_2_country_code_registered_address_country": "FO",
+    "alpha_2_country_code_country_of_origin": "FO"
+  },
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "FC025121",
+    "status": "Active",
+    "category": "Other company type",
+    "country_of_origin": "FAROE IS",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "P/F RAINBOW SEAFOOD",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "f8e25d06-8fb7-42b5-87d1-ffacf8afa1e5",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "FAROE ISLAND",
+    "alpha_2_country_code_registered_address_country": "FO",
+    "alpha_2_country_code_country_of_origin": "FO"
+  },
+  {
+    "payload_uid": "c74df083-3d71-42da-963e-381b9b04b975",
+    "number": "OE025186",
+    "status": "Active",
+    "category": "Overseas Entity",
+    "country_of_origin": "FAROE ISLANDS",
+    "sic_code_sic_text_1": "None Supplied",
+    "name": "P/F RAINBOW SEAFOOD",
+    "sic_code_sic_text_2": "",
+    "sic_code_sic_text_3": "",
+    "sic_code_sic_text_4": "",
+    "uid": "498da5f7-0f66-4f4b-9502-ab1915967de2",
+    "created_at": "2025-11-04 14:15:49.846752",
+    "registered_address_country": "FAROE ISLANDS",
+    "alpha_2_country_code_registered_address_country": "FO",
+    "alpha_2_country_code_country_of_origin": "FO"
+  }
+]
