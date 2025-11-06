@@ -24,6 +24,7 @@ export default function CountryCompanies(props: CountryCompaniesProps) {
     if (isSuccess && data) {
       return (
         <div>
+          <div>Found {data.length} records</div>
           <div>
             <CloudDownloadIcon />
             &nbsp;

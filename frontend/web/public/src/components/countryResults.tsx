@@ -1,6 +1,5 @@
 import Grid from "@mui/material/Grid"
 import CountryCompanies from "./countryCompanies"
-import CountryPeopleWithSignificantControl from "./countryPeopleWithSignificantControl"
 import { useAppSelector } from "../app/hooks"
 import { selectCountryCode } from "../features/country/countrySlice"
 
@@ -10,11 +9,8 @@ export default function CountryResults() {
   return (
     selectedCountry && (
       <Grid container spacing={2}>
-        <Grid size={6}>
+        <Grid size={12}>
           <CountryCompanies countryCode={selectedCountry} />
-        </Grid>
-        <Grid size={6}>
-          <CountryPeopleWithSignificantControl countryCode={selectedCountry} />
         </Grid>
       </Grid>
     )
