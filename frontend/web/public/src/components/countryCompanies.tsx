@@ -2,7 +2,8 @@ import { useAppSelector } from "../app/hooks"
 import { CountryCode } from "../data/countryCodes"
 import { useGetCompaniesQuery } from "../features/api/apiSlice"
 import { selectCountryCode } from "../features/country/countrySlice"
-import { Chip } from "@mui/material"
+import Chip from "@mui/material/Chip"
+import Link from "@mui/material/Link"
 import CloudDownloadIcon from "@mui/icons-material/CloudDownload"
 
 type CountryCompaniesProps = {
@@ -26,15 +27,14 @@ export default function CountryCompanies(props: CountryCompaniesProps) {
         <div>
           <div>Found {data.length} records</div>
           <div>
-            <CloudDownloadIcon />
             &nbsp;
-            <a
+            <Link
               target="_blank"
               rel="noopener noreferrer"
               href={`/uk/companies-house/basic-company-data/${selectedCountryCode.alpha2Code}.json`}
             >
-              Download data as JSON
-            </a>
+              <CloudDownloadIcon /> Download data as JSON
+            </Link>
           </div>
           <hr />
           {data.map(company => {
@@ -54,7 +54,7 @@ export default function CountryCompanies(props: CountryCompaniesProps) {
                   />
                 </div>
                 <div>
-                  <a
+                  <Link
                     target="_blank"
                     rel="noopener noreferrer"
                     href={
@@ -63,7 +63,7 @@ export default function CountryCompanies(props: CountryCompaniesProps) {
                     }
                   >
                     <small>{company.number}</small>
-                  </a>
+                  </Link>
                   &nbsp; | &nbsp; <small>{company.registered_address}</small>
                 </div>
                 <hr />
