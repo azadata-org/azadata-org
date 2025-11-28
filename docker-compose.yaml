@@ -1,0 +1,49 @@
+services:
+  # PostgreSQL database
+  db:
+    image: postgres
+    environment:
+      - POSTGRES_DB=app
+      - POSTGRES_USER=app
+      - POSTGRES_PASSWORD=app
+    ports:
+      - 7705:5432
+    command: |
+      -c ssl=on
+      -c ssl_cert_file=/etc/ssl/certs/ssl-cert-snakeoil.pem
+      -c ssl_key_file=/etc/ssl/private/ssl-cert-snakeoil.key
+      -c max_wal_size=16384
+    volumes:
+      - "${COMPANIES_HOUSE_BASIC_COMPANY_DATA_CSV_PATH}:/app/data/companiesHouse/basicCompanyData.csv"
+      - "${COMPANIES_HOUSE_PERSONS_WITH_SIGNIFICANT_CONTROL_JSONL_PATH}:/app/data/companiesHouse/personsWithSignificantControl.jsonl"
+      - "./backend/apps/sql/app/data:/app/data"
+  # DB Migrations
+  flyway:
+    depends_on:
+      - db
+    image: flyway/flyway
+    command: migrate
+    volumes:
+      - ./backend/apps/sql/app:/flyway/sql
+    tty: true
+    stdin_open: true
+    environment:
+      - FLYWAY_URL=jdbc:postgresql://db:5432/
+      - FLYWAY_USER=app
+      - FLYWAY_SCHEMAS=app
+      - FLYWAY_PASSWORD=app
+      - FLYWAY_CONNECT_RETRIES=100
+      - FLYWAY_LOCATIONS=filesystem:/flyway/sql
+      - REDGATE_DISABLE_TELEMETRY=1
+  # Python app
+  app:
+    depends_on:
+      flyway:
+        condition: service_completed_successfully
+    build:
+      context: ./backend/apps/python/app
+    volumes:
+      # Application source code
+      - "./backend/apps/python/app:/app"
+      # Output directory
+      - "./frontend/web/public/public/uk/companies-house:/app/data/output"

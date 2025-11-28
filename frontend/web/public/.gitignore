@@ -25,3 +25,7 @@ dist-ssr
 
 .yalc/
 yalc.lock
+
+#
+public/uk/companies-house/*
+!public/uk/companies-house/.gitkeep
